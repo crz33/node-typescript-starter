@@ -1,0 +1,16 @@
+{
+  "name": "node-typescript-starter",
+  "version": "0.0.0",
+  "private": true,
+  "description": "starter of my node, typescript",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "crz33",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^13.13.5",
+    "ts-node": "^8.10.1",
+    "typescript": "^3.8.3"
+  }
+}
